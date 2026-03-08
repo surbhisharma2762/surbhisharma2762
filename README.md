@@ -19,7 +19,7 @@
 ---
 ## 🛠️ Tech Stack
 
-# Languages & Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,cpp,python,react,nodejs,git,github,html,css,tailwind" />
 </p>
