@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+New+Things" />
 </p>
 
----
 
 # 👨‍💻 About Me
 
@@ -29,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=aws,flutter,docker,kubernetes" />
 </p>
 
----
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=surbhisharma2762&theme=dark&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
 </p>
