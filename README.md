@@ -19,12 +19,12 @@
 ---
 ## 🛠️ Tech Stack
 
-Languages & Tools:
+# Languages & Tools:
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,cpp,python,react,nodejs,git,github,html,css,tailwind" />
 </p>
 
-Currently Exploring:
+# Currently Exploring:
 <p>
 <img src="https://skillicons.dev/icons?i=aws,flutter,docker,kubernetes" />
 </p>
