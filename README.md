@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=javascript,cpp,python,react,nodejs,git,github,html,css,tailwind" />
 </p>
 
-# Currently Exploring:
+<h3 align="left">Currently Exploring:</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=aws,flutter,docker,kubernetes" />
 </p>
