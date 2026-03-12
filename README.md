@@ -8,7 +8,6 @@
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Developer  
 - 🌱 Currently learning **Backend, Microservices & Cloud**  
 - ⚡ Love building **clean APIs & smooth UI**  
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript**  
